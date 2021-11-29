@@ -21,7 +21,7 @@ export class Negociacao {
     }
 
     get valor() {
-           return this._alor;
+           return this._valor;
     }
 
     get volume() {
