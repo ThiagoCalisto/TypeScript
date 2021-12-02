@@ -15,7 +15,6 @@ export class Negociacao {
            return this._data;
     }
 
-
     get quantidade()  {
            return this._quantidade;
     }
